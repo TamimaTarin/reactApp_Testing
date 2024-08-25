@@ -1,1 +1,1 @@
-# reactApp_Testing
+This Test Automation Framework is created using Java + Selenium Web Driver + TestNG. Which can be used across different web based applications. In test_log.log file, you will see the test results and full code is in "https://github.com/TamimaTarin/reactApp_Testing/blob/master/src/test/java/Utilities/DriverSetup.java".
