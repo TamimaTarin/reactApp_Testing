@@ -1,0 +1,34 @@
+Aug 25, 2024 4:19:22 PM Utilities.DriverSetup testcase1
+INFO: Testing started....
+Aug 25, 2024 4:19:28 PM Utilities.DriverSetup testcase1
+INFO: Login Page displayed
+Aug 25, 2024 4:19:34 PM Utilities.DriverSetup testcase1
+INFO: Test Passed. Login successful.user is redirected to the manga search page. 
+Aug 25, 2024 4:19:34 PM Utilities.DriverSetup testcase1
+INFO: Login_testCase1_ execution completed...
+Aug 25, 2024 4:19:34 PM Utilities.DriverSetup testcase5
+INFO: Test Case 5 Execution started...
+Aug 25, 2024 4:19:36 PM Utilities.DriverSetup testcase5
+INFO: Test Passed. Name correct
+Aug 25, 2024 4:19:36 PM Utilities.DriverSetup testcase5
+INFO: Test Passed. Details showed
+Aug 25, 2024 4:19:37 PM Utilities.DriverSetup testcase5
+INFO: Details_testCase5_ execution completed...
+Aug 25, 2024 4:19:40 PM Utilities.DriverSetup testcase2
+INFO: Test Case 2 Execution started...
+Aug 25, 2024 4:19:42 PM Utilities.DriverSetup testcase2
+INFO: Test Passed. manga cards with the name Naruto are displayed.
+Aug 25, 2024 4:19:42 PM Utilities.DriverSetup testcase2
+INFO: Search_testCase2_ execution completed...
+Aug 25, 2024 4:19:45 PM Utilities.DriverSetup testcase3
+INFO: Test Case 3 Execution started...
+Aug 25, 2024 4:19:48 PM Utilities.DriverSetup testcase3
+INFO: Test Passed. manga cards with the name One Piece are displayed.
+Aug 25, 2024 4:19:48 PM Utilities.DriverSetup testcase3
+INFO: Search_testCase3_ execution completed...
+Aug 25, 2024 4:19:51 PM Utilities.DriverSetup testcase4
+INFO: Test Case 4 Execution started...
+Aug 25, 2024 4:19:53 PM Utilities.DriverSetup testcase4
+INFO: Test Passed. No manga found displayed
+Aug 25, 2024 4:19:54 PM Utilities.DriverSetup testcase4
+INFO: Search_testCase4_ execution completed...
